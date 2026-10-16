@@ -1,0 +1,11 @@
+### POST
+POST localhost:8080/api/cliente
+Authorization: Basic user 174000c1-355d-4d17-9017-76021ac04aa8
+Content-Type: application/json
+
+{
+ "nome":"jesus",
+ "email": "jj@gmail.com",
+ "senha": "1234",
+ "role": 0
+}
